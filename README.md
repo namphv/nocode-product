@@ -27,7 +27,7 @@ Cloud run help to leverage from code to containerized application for user witho
 ![Screenshot](design.png)
 
 
-## Appling IaC
+## Applying IaC
 - cd .tf
 - terraform init -backend-config=production.backend -reconfigure -upgrade
 - terraform apply
